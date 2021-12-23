@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NestedRecylerView</string>
+    <string name="nestedscrollview">NestedScrollView</string>
 </resources>
